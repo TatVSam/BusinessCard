@@ -12,12 +12,28 @@ body {
   
 }
 
-.img-container_incense {
-    height: 70vh;
-    opacity: 1;
-    background: url('../../images/incense.jpg') center no-repeat;
-    background-size: cover;
+.menu-container {
+    position: absolute;
+    top: 0px;
+    display: flex;
+    /*align-items: center;
+    justify-content: center;
+    height: 25vh; */
 }
+
+.main-container {
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25vh;
+}
+
+
+
+
 
 .salon-background {
     height: 100vh;
@@ -33,10 +49,10 @@ header {
     background: url('../images/salon.jpg') center no-repeat;
     background-size: cover;
 }*/
-/*
+
 .container-content {
     margin: 30px;
-}*/
+}
 
 .nav-item {
     font-weight: bold;
@@ -94,6 +110,13 @@ img {
     border-radius: 5%;
 }
 
+.img-container_incense {
+    width: 400px;
+    height: 500px;
+}
+
+
+
 figcaption {    
     width: 300px;
     text-align: center;  
@@ -114,7 +137,9 @@ figure {
     flex-wrap: wrap;    
     align-content: space-between;
 }
-
+iframe {
+    border-radius: 5%;
+}
 .discount {
     vertical-align: super;
     font-size: 90%;

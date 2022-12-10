@@ -11,6 +11,8 @@
     </div>
   </div>
 </nav>
+
+<div class="container-content">
 <div class="container-fluid">
     <div class="row flex-nowrap">
         <div class="col">
@@ -21,11 +23,14 @@
         <div class="col">
 
         <div class="img-container_incense">
+  
             
+                <img src="../../images/incense.jpg" alt="incense">
+        
         </div>
        
         </div>
     </div>
 </div>
 
-    
+</div>   

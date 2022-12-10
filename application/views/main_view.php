@@ -1,8 +1,10 @@
-
- 
-       
+     
         <div class="salon-background">
 
+   
+        </div>
+
+        <div class="menu-container">
         <nav class="navbar navbar-expand-lg navbar-light bg-*">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -16,6 +18,9 @@
     </div>
   </div>
 </nav>
-        Комфортабельный офис
-        </div>
+</div>
 
+<div class="main-container">
+        Комфортабельный офис
+
+</div>
