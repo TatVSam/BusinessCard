@@ -9,6 +9,7 @@ class Route
         $action_name = 'index';
 	    
         $routes = $_GET['url'];
+		//$routes = ltrim($_SERVER['REQUEST_URI'], "\\");
 		
 		// получаем имя контроллера
 		if ( !empty($routes) )
