@@ -5,7 +5,7 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="/">Главная <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="/">Главная <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="/about">О нас</a>
       <a class="nav-item nav-link" href="/services">Услуги</a>
       <a class="nav-item nav-link" href="/contacts">Контакты</a>
