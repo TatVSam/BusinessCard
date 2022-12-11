@@ -12,72 +12,7 @@
 </head>
 
 <body>
-<!--
-<div class="nav nav1">  
-            
-            <button class="open-button btn btn-secondary" type="button" onclick="open_formLog()">Войдите</button>        
-            <button class="registration-button btn btn-outline-secondary" type="button" onclick="open_formReg()">Зарегистрируйтесь</button>
-              
-        </div>
 
--->
-
-
-<!--
-
-<nav class="navbar navbar-expand-lg navbar-light bg-*">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="/">Главная <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="/about">О нас</a>
-      <a class="nav-item nav-link" href="/services">Услуги</a>
-      <a class="nav-item nav-link" href="/contacts">Контакты</a>
-    </div>
-  </div>
-</nav>
--->
-
- <!--  <div class="container-fluid">
-    <div class="row flex-nowrap">
-        <div class="col-auto col-md-3 col-xl-1 bg-dark sidebar">
-            <div class="d-flex flex-column align-items-center">
-               
-                <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
-                    <li class="nav-item">
-                        <a href="/" class="nav-link align-middle px-0">
-                            <i class="fs-4 bi-house"></i> <span class="ms-1 d-none d-sm-inline">Главная</span>
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="/about" class="nav-link px-0 align-middle">
-                            <i class="fs-4 bi-table"></i> <span class="ms-1 d-none d-sm-inline">О нас</span></a>
-                    </li>
-               
-                    <li>
-                        <a href="/services" class="nav-link px-0 align-middle">
-                            <i class="fs-4 bi-people"></i> <span class="ms-1 d-none d-sm-inline">Услуги</span> </a>
-                    </li>
-
-                    <li>
-                        <a href="/contacts" class="nav-link px-0 align-middle">
-                            <i class="fs-4 bi-people"></i> <span class="ms-1 d-none d-sm-inline">Контакты</span> </a>
-                    </li>
-                </ul>
-               
-                
-            </div>
-        </div>
-        <div class="col">
-     <?php //include $content_view; ?>
-        </div>
-    </div>
-</div>
- 
--->
 
 <?php include $content_view; ?>
 

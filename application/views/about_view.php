@@ -14,9 +14,9 @@
 </nav>
 
 <div class="container-content">
-<div class="container-fluid">
-    <div class="row flex-nowrap">
-        <div class="col-12 col-md-6 col-sm-6">
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
             <h1>SPA — это философия жизни</h1>
             <p>
             SPA научит Вас любить свое тело, свою внешность, изменит отношение к окружающему миру.
@@ -29,22 +29,16 @@
             <p>
             Наш салон предоставляет уникальную возможность поделиться добром с близкими, подарить им здоровье, красоту и молодость с помощью подарочных сертификатов, которые действуют в любом салоне независимо от места приобретения, если даже любимый вами человек находится в другом городе.     
             </p>
-            </div>
+        </div>
        
-        <div class="col-12 col-md-6 col-sm-6">
+        <div class="col-sm">
 
-        <div class="img-container_incense">
-  
-            
-        <img src="../../images/incense.jpg" alt="incense">
-        
+          <div class="img-container_incense">
+            <img src="../../images/incense.jpg" alt="incense">
         </div>
 
         <div class="img-container_incense">
-  
-            
-        <img src="../../images/candles.jpg" alt="candles">
-        
+          <img src="../../images/candles.jpg" alt="candles">
         </div>
        
         </div>

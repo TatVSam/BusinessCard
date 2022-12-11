@@ -35,9 +35,7 @@
             </div>           
             
             <figcaption>Шоколадное обертывание</figcaption>
-           
-           
-                    <figcaption><span class="new-price">5500 &#8381;</span></figcaption>
+            <figcaption><span class="new-price">5500 &#8381;</span></figcaption>
            
         </figure>
 
@@ -48,8 +46,8 @@
             
             <figcaption>Виноградное обертывание</figcaption>
            
-                    <figcaption><span class="new-price">5170 &#8381;</span></figcaption>
-                    <figcaption><span class="old-price">5500 &#8381;</span><span class="discount">-6%</span></figcaption>
+            <figcaption><span class="new-price">5170 &#8381;</span></figcaption>
+            <figcaption><span class="old-price">5500 &#8381;</span><span class="discount">-6%</span></figcaption>
           
         </figure>
 
@@ -59,8 +57,7 @@
             </div>
 
             <figcaption>Медовое обертывание</figcaption>
-        
-                <figcaption><span class="new-price">5500 &#8381;</span></figcaption>
+            <figcaption><span class="new-price">5500 &#8381;</span></figcaption>
          
         </figure>
     
@@ -72,8 +69,8 @@
        
             <figcaption>Массаж горячими камнями</figcaption>
         
-                    <figcaption><span class="new-price">7600 &#8381;</span></figcaption>
-                    <figcaption><span class="old-price">8000 &#8381;</span><span class="discount">-5%</span></figcaption>
+            <figcaption><span class="new-price">7600 &#8381;</span></figcaption>
+            <figcaption><span class="old-price">8000 &#8381;</span><span class="discount">-5%</span></figcaption>
           
         </figure>
 
@@ -83,9 +80,7 @@
             </div>
             
             <figcaption>Обертывание ламинарией</figcaption>
-          
-          
-                    <figcaption><span class="new-price">7800 &#8381;</span></figcaption>
+            <figcaption><span class="new-price">7800 &#8381;</span></figcaption>
             
         </figure>
 
@@ -95,9 +90,7 @@
             </div>
 
             <figcaption>Натуральный экспресс пилинг на выбор</figcaption>
-      
-        
-                <figcaption><span class="new-price">7000 &#8381;</span></figcaption>
+            <figcaption><span class="new-price">7000 &#8381;</span></figcaption>
          
         </figure>
 
@@ -107,8 +100,7 @@
             </div>
             
             <figcaption>Турецкий мыльный массаж</figcaption>
-       
-                <figcaption><span class="new-price">7500 &#8381;</span></figcaption>
+            <figcaption><span class="new-price">7500 &#8381;</span></figcaption>
        
         </figure>
 
@@ -118,9 +110,8 @@
             </div>
             
             <figcaption>Кокосовый скраб </figcaption>
-          
-                    <figcaption><span class="new-price">1860 &#8381;</span></figcaption>
-                    <figcaption><span class="old-price">2000 &#8381;</span><span class="discount">-7%</span></figcaption>
+            <figcaption><span class="new-price">1860 &#8381;</span></figcaption>
+            <figcaption><span class="old-price">2000 &#8381;</span><span class="discount">-7%</span></figcaption>
          
         </figure>
 
@@ -130,8 +121,7 @@
             </div>
             
             <figcaption>Манговый скраб</figcaption>
-      
-                    <figcaption><span class="new-price">2000 &#8381;</span></figcaption>
+            <figcaption><span class="new-price">2000 &#8381;</span></figcaption>
            
         </figure>
        
@@ -141,9 +131,8 @@
             </div>
 
             <figcaption>Аюрведический гоммаж</figcaption>
-          
-                    <figcaption><span class="new-price">2700 &#8381;</span></figcaption>
-                    <figcaption><span class="old-price">3000 &#8381;</span><span class="discount">-7%</span></figcaption>
+            <figcaption><span class="new-price">2700 &#8381;</span></figcaption>
+            <figcaption><span class="old-price">3000 &#8381;</span><span class="discount">-7%</span></figcaption>
                   
         </figure>
 
@@ -153,8 +142,7 @@
             </div>
 
             <figcaption>Массаж лица</figcaption>
-       
-                    <figcaption><span class="new-price">2500 &#8381;</span></figcaption>
+            <figcaption><span class="new-price">2500 &#8381;</span></figcaption>
           
         </figure>
 

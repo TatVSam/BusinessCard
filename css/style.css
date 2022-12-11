@@ -15,7 +15,6 @@ body {
     position: absolute;
     top: 0px;
     display: flex;
-
 }
 
 .main-container {
@@ -29,7 +28,6 @@ body {
     font-weight: bold;
     height: 25vh;
 }
-
 
 .salon-background {
     height: 100vh;
@@ -47,8 +45,6 @@ body {
     font-weight: bold;
     color: black;
 }
-
-
 
 .nav-link {
     color: white; 
@@ -98,6 +94,7 @@ figure {
 iframe {
     border-radius: 5%;
 }
+
 .discount {
     vertical-align: super;
     font-size: 90%;
