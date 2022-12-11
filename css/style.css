@@ -8,7 +8,6 @@ body {
     font-family: Courier, Arial, Helvetica, sans-serif;
     font-size:20px;
    
-    background-color: url("../../images/background_pattern.jpg");
   
 }
 
@@ -16,23 +15,20 @@ body {
     position: absolute;
     top: 0px;
     display: flex;
-    /*align-items: center;
-    justify-content: center;
-    height: 25vh; */
+
 }
 
 .main-container {
     position: absolute;
-    top: 60%;
+    top: 50%;
     left: 20%;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
     height: 25vh;
 }
-
-
-
 
 
 .salon-background {
@@ -42,13 +38,6 @@ body {
     background: url('../../images/salon.jpg') center no-repeat;
     background-size: cover; 
 }
-/*
-header {
-    height: 20vh;
-    opacity: 0.7;
-    background: url('../images/salon.jpg') center no-repeat;
-    background-size: cover;
-}*/
 
 .container-content {
     margin: 30px;
@@ -59,44 +48,13 @@ header {
     color: black;
 }
 
-/*
-.open-button {  
-    position: absolute;
-    width: 100px;
-    top: 1%;
-    right: 5px; 
-    
-}
 
-.registration-button {
-    position: absolute;
-    top: 1%;
-    right: 120px;     
-    
-}
-*/
-
-/*.nav1 {
-    background-color: #544141;
-    min-height: 60px;
-}*/
 
 .nav-link {
     color: white; 
    
 }
 
-/*.sidebar {
-    min-height:100vh;
-}
-
-.welcome {
-    position: absolute;
-    top: 2%;
-    right: 120px;
-    color:#ddd;
-}
-*/
 
 .img-container {   
     width: 300px;
@@ -111,11 +69,10 @@ img {
 }
 
 .img-container_incense {
-    width: 400px;
-    height: 500px;
+    width: 300px;
+    height: 400px;
+    margin: 10px;
 }
-
-
 
 figcaption {    
     width: 300px;
@@ -137,6 +94,7 @@ figure {
     flex-wrap: wrap;    
     align-content: space-between;
 }
+
 iframe {
     border-radius: 5%;
 }

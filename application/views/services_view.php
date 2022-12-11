@@ -1,5 +1,5 @@
-
-        <nav class="navbar navbar-expand-lg navbar-light bg-*">
+<!--Меню -->
+<nav class="navbar navbar-expand-lg navbar-light bg-*">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -14,6 +14,7 @@
 </nav>
 <div class="figure-container">
         
+<!--Услуги -->
         <figure>
             <div class="img-container">
                 <img src="../../images/bali_massage.jpg" alt="Trulli">
